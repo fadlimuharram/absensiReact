@@ -1,0 +1,6 @@
+export const dosenConstants = {
+  DOSEN_REQUEST: "DOSEN_REQUEST",
+  DOSEN_FAILURE: "DOSEN_FAILURE",
+  DOSEN_GET: "DOSEN_GET",
+  DOSEN_POST: "DOSEN_POST"
+};
